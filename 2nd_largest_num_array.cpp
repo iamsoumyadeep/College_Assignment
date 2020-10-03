@@ -30,4 +30,5 @@ for (i = 0; i <= n-1 ; i++)
 cout<<"\n2nd largest number in the array: "<<num[n-2];
 return 0;
 }
+//Soumyadeep Pal
 

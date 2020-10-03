@@ -31,7 +31,7 @@ void Display(int poly[], int n)
 int main()
 {
 	int m, n;
-	cout << "How many elements u want (Poly1): ";
+	cout << "How many integer coefficients u want (Poly1): ";
 	cin >> m;
 	int A[10];
 	cout << "Enter elements(Format- Polynomial c + Bx^2 + Ax^3 .......) :" << endl;
